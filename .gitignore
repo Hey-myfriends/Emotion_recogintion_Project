@@ -1,0 +1,5 @@
+fig/
+outputs*/
+*.log
+__pycache__/
+*/**/*.pyc
